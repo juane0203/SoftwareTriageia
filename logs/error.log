@@ -1,0 +1,928 @@
+[19-Dec-2024 12:16:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 22
+[19-Dec-2024 12:16:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[19-Dec-2024 12:16:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[19-Dec-2024 12:16:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[19-Dec-2024 12:16:08 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/index.php on line 10
+[19-Dec-2024 12:21:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 22
+[19-Dec-2024 12:21:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[19-Dec-2024 12:21:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[19-Dec-2024 12:21:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[19-Dec-2024 12:21:35 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/index.php on line 10
+[19-Dec-2024 12:21:55 America/Bogota] Respuesta de IA: 1. Nivel de triage: 3
+2. Justificación clínica: El dolor de espalda en un hombre de 44 años, sin signos adicionales reportados, no es una emergencia inmediata. Sin embargo, la edad del paciente debe considerarse como un factor agravante debido al riesgo potencial de enfermedades subyacentes. No hay signos evidentes de emergencia, pero se debe realizar una evaluación más detallada para descartar causas graves.
+3. Tiempo de espera recomendado: Menos de 2 horas
+4. Acción inmediata requerida: Una evaluación médica completa, incluyendo anamnesis y examen físico, es necesaria para determinar la causa del dolor de espalda y descartar cualquier condición grave.
+5. Signos de alarma específicos: Si el paciente presenta alguno de los siguientes signos de alarma, debe ser reevaluado y posiblemente clasificado como NIVEL 1: dolor de espalda repentino e intenso, pérdida de control intestinal o vesical, debilidad muscular, entumecimiento u hormigueo en las piernas, fiebre, escalofríos o pérdida de peso inexplicable. Estos síntomas pueden indicar una emergencia médica, como una infección, una hernia discal con compromiso neurológico o un problema vascular.
+[19-Dec-2024 12:21:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function getWarningSigns() in /home/opcriver/developer-elephantic.tech/triageadom/api/triage.php:119
+Stack trace:
+#0 /home/opcriver/developer-elephantic.tech/triageadom/api/triage.php(19): processTriageResponse(Array, Array)
+#1 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/api/triage.php on line 119
+[19-Dec-2024 12:31:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 22
+[19-Dec-2024 12:31:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[19-Dec-2024 12:31:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[19-Dec-2024 12:31:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:6) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[19-Dec-2024 12:31:15 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/index.php on line 10
+[19-Dec-2024 12:33:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:7) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 22
+[19-Dec-2024 12:33:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:7) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[19-Dec-2024 12:33:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:7) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[19-Dec-2024 12:33:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:7) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[19-Dec-2024 12:42:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:1) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 22
+[19-Dec-2024 12:42:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:1) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[19-Dec-2024 12:42:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:1) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[19-Dec-2024 12:42:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/index.php:1) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[19-Dec-2024 12:47:27 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: El paciente presenta dolor abdominal y vómitos con sangre, lo cual puede indicar una condición potencialmente grave como una úlcera sangrante, una perforación gastrointestinal o una hemorragia interna. La edad del paciente (43 años) también debe considerarse como un factor agravante, ya que las complicaciones pueden ser más graves en adultos mayores.
+3. Tiempo de espera recomendado: Debido a la naturaleza potencialmente grave de los síntomas, se recomienda que el paciente sea evaluado por un profesional médico de inmediato. No debe haber demora en la atención.
+4. Acción inmediata requerida: El paciente debe ser trasladado a una sala de emergencias en una ambulancia equipada con personal médico capacitado para brindar atención y estabilización en el trayecto, si es necesario.
+5. Signos de alarma específicos: Además de los síntomas actuales, los signos de alarma adicionales pueden incluir debilidad, mareos, desmayos, taquicardia, presión arterial baja, sudoración excesiva, piel pálida o fría y confusión. Estos signos pueden indicar una pérdida significativa de sangre o choque hipovolémico, lo que requiere atención médica urgente.
+[19-Dec-2024 12:48:12 America/Bogota] Respuesta de IA: 1. Nivel de triage: 3
+2. Justificación clínica: Los síntomas descritos por el paciente, dolor corporal, escalofríos, mocos y congestión, son consistentes con una infección viral respiratoria aguda, como un resfriado común o la gripe. Aunque la edad del paciente no es un factor agravante en este caso, se debe considerar la posibilidad de complicaciones como neumonía o bronquitis, especialmente si el paciente es fumador o tiene afecciones médicas subyacentes. Dado que no se han proporcionado más detalles sobre el estado del paciente, se debe asignar un nivel de triage intermedio (3) para garantizar una evaluación médica adecuada.
+3. Tiempo de espera recomendado: El paciente debe ser evaluado por un profesional médico en un plazo de pocas horas, dependiendo de la disponibilidad de los recursos sanitarios y la gravedad de los síntomas.
+4. Acción inmediata requerida: El paciente debe acudir a un centro de atención médica, como una clínica de urgencias o un consultorio médico, para una evaluación y tratamiento adicional. Se recomienda que el paciente se aísle en casa y evite el contacto cercano con otras personas para minimizar la propagación de la infección.
+5. Signos de alarma específicos: Si el paciente presenta alguno de los siguientes signos de alarma, debe buscar atención médica de emergencia inmediatamente:
+* Dificultad para respirar o respiración rápida y superficial
+* Dolor en el pecho o presión
+* Confusión o desorientación
+* Fiebre persistente (por encima de 39°C) durante más de 3 días
+* Tos productiva con esputo amarillo o verde
+* Coloración azulada de los labios o las uñas (cianosis)
+* Rigidez en el cuello o convulsiones
+* Debilidad muscular o incapacidad para moverse
+* Pérdida del conocimiento o desmayos
+[19-Dec-2024 12:49:23 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: La paciente es una mujer embarazada de 25 años que presenta dolor abdominal, cefalea y mareos. Estos síntomas pueden indicar una variedad de condiciones, algunas de las cuales pueden ser potencialmente graves en el contexto del embarazo, como preeclampsia, eclampsia, desprendimiento de placenta o infección. Dado que la paciente está embarazada y presenta síntomas inespecíficos pero potencialmente graves, se debe considerar una emergencia inmediata y priorizar su evaluación y tratamiento.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: La paciente debe ser evaluada de inmediato por un profesional de la salud capacitado en medicina de emergencias y obstetricia. Se debe realizar un examen físico completo, incluyendo la presión arterial, frecuencia cardíaca, temperatura y evaluación del feto. Se pueden requerir pruebas adicionales, como análisis de sangre, orina y ultrasonografía, para determinar la causa de los síntomas.
+5. Signos de alarma específicos: La presencia de signos de preeclampsia o eclampsia, como hipertensión arterial, proteinuria, edema, cefalea severa, visión borrosa o dolores abdominales superiores derechos, debe ser considerada una emergencia obstétrica y tratada de inmediato. Otros signos de alarma incluyen vómitos persistentes, hemorragia vaginal, contracciones uterinas frecuentes o dolor pélvico intenso.
+[19-Dec-2024 12:52:25 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: Las convulsiones en una persona de 22 años pueden ser indicativas de una variedad de condiciones médicas graves, como un traumatismo craneoencefálico, un tumor cerebral, una enfermedad infecciosa del sistema nervioso central (como meningitis o encefalitis), un trastorno metabólico o una crisis epiléptica. Dado que las convulsiones pueden poner en peligro la vida del paciente y pueden ser el signo de una afección potencialmente mortal, se debe considerar como una emergencia médica y se debe priorizar la atención inmediata.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: Llamar a una ambulancia y trasladar al paciente a un centro de atención de emergencias para una evaluación y tratamiento inmediatos. Mientras esperan la ambulancia, se debe colocar al paciente en una posición segura para evitar lesiones y se debe monitorear su respiración y signos vitales.
+5. Signos de alarma específicos: Dificultad para respirar, cianosis (coloración azulada de la piel), pérdida de conciencia, convulsiones prolongadas o repetitivas, signos de traumatismo craneoencefálico (como hematomas o heridas en la cabeza), fiebre alta, rigidez en el cuello, y cambios en el nivel de conciencia o la respuesta del paciente.
+[19-Dec-2024 12:53:42 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: La combinación de dificultad para respirar y dolor moderado en el pecho en un paciente de 43 años puede indicar una condición potencialmente grave, como un ataque cardíaco o un problema pulmonar grave. Dado que estos síntomas pueden empeorar rápidamente y poner en peligro la vida del paciente, se debe considerar como una emergencia inmediata.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: Llamar a una ambulancia y proporcionar atención médica de emergencia inmediata. Monitorear la frecuencia cardíaca, la presión arterial, la saturación de oxígeno y los signos vitales del paciente mientras se espera la ambulancia.
+5. Signos de alarma específicos: Empeoramiento de la dificultad para respirar, dolor en el pecho que empeora o no desaparece, pérdida de conciencia, sudoración excesiva, piel pálida o azulada, y latidos cardíacos irregulares o rápidos.
+[19-Dec-2024 12:54:06 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: El paciente es un hombre de 43 años con dificultad para respirar y antecedentes de asma. La disnea en pacientes asmáticos puede indicar un ataque de asma grave o incluso una crisis asmática, que puede ser potencialmente mortal si no se trata de manera oportuna. La edad del paciente también debe considerarse como un factor agravante, ya que los adultos mayores pueden experimentar complicaciones adicionales.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: Llamar a una ambulancia y proporcionar tratamiento prehospitalario según los protocolos locales, que pueden incluir el uso de un inhalador broncodilatador de rescate y/o administración de oxígeno suplementario.
+5. Signos de alarma específicos: Taquipnea (frecuencia respiratoria superior a 25 respiraciones por minuto en adultos), uso de músculos accesorios para respirar, sibilancias, cianosis, confusión o pérdida de conciencia. Estos signos pueden indicar una insuficiencia respiratoria y requieren una intervención médica urgente.
+[19-Dec-2024 12:56:07 America/Bogota] Respuesta de IA: 1. Nivel de triage: 3
+2. Justificación clínica: Basándome en el protocolo ADOM, el paciente de 43 años presenta un síntoma principal de dolor en una pierna debido a un golpe. No hay información adicional sobre signos vitales, signos de trauma severo, o factores de riesgo como enfermedades crónicas o uso de medicamentos. La edad del paciente se considera dentro del rango adulto y no parece ser un factor agravante en este caso. Por lo tanto, el nivel de triage se establece en 3, lo que indica que se trata de una condición no urgente pero que requiere atención médica.
+3. Tiempo de espera recomendado: El tiempo de espera recomendado para un nivel de triage 3 es generalmente de 1 a 2 horas. Sin embargo, esto puede variar dependiendo de la carga de pacientes en el servicio de urgencias y la disponibilidad de recursos.
+4. Acción inmediata requerida: En este caso, no se identifican signos de emergencia inmediata. Se recomienda que el paciente acuda a un servicio de urgencias para una evaluación y tratamiento adicional. Si el dolor empeora, si hay signos de hinchazón, enrojecimiento o incapacidad para mover la pierna, se debe buscar atención médica inmediata.
+5. Signos de alarma específicos: Los signos de alarma específicos en este caso podrían incluir:
+* Dolor intenso o creciente
+* Hinchazón significativa o progresiva
+* Enrojecimiento o calor en el área afectada
+* Incapacidad para mover la pierna o poner peso sobre ella
+* Signos de infección, como fiebre o escalofríos
+* Presencia de deformidad en la pierna
+* Pérdida de sensibilidad en la pierna o el pie
+
+Si el paciente experimenta alguno de estos signos de alarma, debe buscar atención médica inmediata.
+[19-Dec-2024 12:56:51 America/Bogota] Respuesta de IA: 1. Nivel de triage: 5
+2. Justificación clínica: El paciente es un hombre de 43 años que acude a consulta para renovación de fórmulas médicas, sin síntomas agudos ni factores de riesgo evidentes en la información proporcionada. No hay indicios de una emergencia inmediata o una afección grave.
+3. Tiempo de espera recomendado: El paciente puede esperar según la disponibilidad de la consulta programada, ya que no presenta síntomas urgentes.
+4. Acción inmediata requerida: No se requiere acción inmediata, ya que el paciente no presenta síntomas ni signos de emergencia.
+5. Signos de alarma específicos: No hay signos de alarma específicos en este caso, ya que el paciente no presenta síntomas agudos ni factores de riesgo evidentes.
+
+Nota: Si el paciente desarrolla síntomas agudos o nuevos durante su espera, se debe reevaluar su estado y ajustar el nivel de triage en consecuencia.
+[19-Dec-2024 12:58:41 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: El paciente es un hombre de 43 años con antecedentes de neurisma cerebral hace 10 años y presenta mareos como único síntoma. La combinación de antecedentes de neurisma cerebral y mareos podría indicar una complicación grave, como una hemorragia cerebral o un aumento de la presión intracraneal. Dado que el mareo es un síntoma inespecífico, es importante considerar los antecedentes médicos del paciente y priorizar la seguridad del paciente. Además, la edad del paciente puede ser un factor agravante en este caso.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: El paciente debe ser evaluado por un médico de inmediato y posiblemente necesitará una tomografía computarizada (TC) o una resonancia magnética (RM) para descartar complicaciones graves. Si el paciente tiene signos de deterioro neurológico, como debilidad muscular, alteración del habla o pérdida de la conciencia, se debe activar el código stroke o el código cerebro para una evaluación y tratamiento urgentes.
+5. Signos de alarma específicos: Deterioro neurológico progresivo, cefalea intensa, vómitos, pérdida de la conciencia, convulsiones.
+[19-Dec-2024 12:59:23 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: La combinación de síntomas como dolor generalizado, tos con congestión nasal, inapetencia, desaliento y temblor en manos puede indicar una condición médica grave, como una infección sistémica o incluso una enfermedad neurológica. Además, la edad del paciente (43 años) debe considerarse como un factor agravante, ya que los adultos mayores pueden tener un peor pronóstico en caso de enfermedades graves. Dado que no hay información adicional sobre el paciente, es mejor priorizar la seguridad del paciente y clasificar este caso como una emergencia.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: El paciente debe ser evaluado por un médico de emergencias lo antes posible. Se deben realizar exámenes físicos y de laboratorio para determinar la causa subyacente de los síntomas. Si se sospecha una infección sistémica, se debe iniciar el tratamiento antibiótico lo antes posible. Si se sospecha una enfermedad neurológica, se debe considerar la hospitalización y la consulta con un especialista.
+5. Signos de alarma específicos: Dificultad para respirar, dolor en el pecho, confusión, cambios en el nivel de conciencia, fiebre alta, escalofríos, sudoración excesiva, debilidad muscular, rigidez en el cuello, convulsiones. Si el paciente presenta alguno de estos signos de alarma, se debe activar el código de emergencia inmediatamente.
+[19-Dec-2024 13:00:42 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: La combinación de síntomas como dolor generalizado, tos, congestión nasal, inapetencia, desaliento y temblor en manos podría indicar una infección respiratoria o incluso una condición más grave como la meningitis o una sepsis, especialmente considerando la edad del paciente como factor agravante. Dado que no hay información sobre el nivel de dolor, se debe asumir una posible gravedad. Ante la duda, se debe priorizar la seguridad del paciente.
+3. Tiempo de espera recomendado: Menos de 15 minutos
+4. Acción inmediata requerida: Evaluación médica urgente en un centro de atención de emergencias, posiblemente incluyendo exámenes de laboratorio (como hemograma completo, análisis de orina y química sanguínea), radiografía de tórax y posiblemente una tomografía computarizada (TC) o una resonancia magnética (RM) para descartar complicaciones.
+5. Signos de alarma específicos: Dificultad para respirar, dolor intenso, confusión, rigidez en el cuello, fiebre alta, escalofríos, signos de deshidratación, cambios en el nivel de conciencia y signos de shock.
+[19-Dec-2024 13:01:32 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: Aunque el paciente niega golpes o caídas, el dolor en la cintura a esta edad puede indicar una serie de problemas graves, como una embolia pulmonar, un aneurisma abdominal o incluso un infarto renal. Dado que el paciente es de mediana edad (43 años) y no se proporciona más información sobre su estado de salud general, es fundamental considerar la edad como factor agravante y priorizar la seguridad del paciente.
+3. Tiempo de espera recomendado: Menos de 15 minutos
+4. Acción inmediata requerida: Evaluación médica urgente, incluyendo exámenes físicos, análisis de sangre y posiblemente imágenes diagnósticas (rayos X, TAC o resonancia magnética) para descartar causas potencialmente mortales.
+5. Signos de alarma específicos: Dificultad para respirar, dolor repentino y severo, pérdida de conciencia, palidez, sudoración excesiva y debilidad muscular. Si el paciente presenta alguno de estos síntomas, se debe activar una respuesta de emergencia inmediata.
+[19-Dec-2024 13:02:04 America/Bogota] Respuesta de IA: 1. Nivel de triage: 1
+2. Justificación clínica: La paciente es una mujer de 64 años con dolor en la cintura sin causa aparente (golpes o caídas). La edad avanzada de la paciente la convierte en un factor de riesgo, ya que aumenta la probabilidad de enfermedades subyacentes graves, como problemas cardiovasculares, neuroológicos o ortopédicos. El dolor en la cintura puede indicar una emergencia médica, como una embolia pulmonar, aneurisma aórtico o fractura por fragilidad.
+3. Tiempo de espera recomendado: Menos de 5 minutos
+4. Acción inmediata requerida: Evaluación médica urgente, incluyendo anamnesis detallada, examen físico completo y pruebas diagnósticas (ECG, radiografías, TAC o ecografía, según sea necesario).
+5. Signos de alarma específicos: Dificultad para respirar, dolor torácico, mareos, pérdida de conciencia, debilidad o entumecimiento en las extremidades, cambios en la voz o la deglución, signos de shock (pulso débil, presión arterial baja, sudoración excesiva, piel fría y pegajosa).
+[19-Dec-2024 17:27:55 America/Bogota] Respuesta de Gemini: **NIVEL:** 2
+
+**JUSTIFICACIÓN:**
+
+El paciente presenta síntomas de un posible accidente cerebrovascular transitorio (AIT), que es una emergencia médica. Los síntomas incluyen desmayo y pérdida de memoria, que son signos de alteración neurológica.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Evaluar inmediatamente al paciente para detectar signos de AIT.
+* Realizar una tomografía computarizada (TC) de la cabeza para descartar hemorragia o infarto cerebral.
+* Administrar medicamentos antiplaquetarios o anticoagulantes según sea necesario.
+* Hospitalizar al paciente para observación y tratamiento.
+
+**ALARMA:**
+
+* Cambios en el estado mental o neurológico
+* Debilidad o entumecimiento en un lado del cuerpo
+* Dificultad para hablar o entender el habla
+* Pérdida de visión en un ojo o ambos
+[19-Dec-2024 17:35:02 America/Bogota] Respuesta de Gemini: **NIVEL:** 1
+
+**JUSTIFICACIÓN:**
+
+* El desmayo y la pérdida de memoria son síntomas graves que pueden indicar una afección médica subyacente grave, como un accidente cerebrovascular o una convulsión.
+
+**TIEMPO:**
+
+* Urgente
+
+**ACCIÓN:**
+
+* Transportar al hospital de inmediato para una evaluación y tratamiento urgentes.
+
+**ALARMA:**
+
+* Vigilar si hay otros síntomas, como debilidad, entumecimiento, dificultad para hablar o confusión.
+* Vigilar si hay signos de deterioro, como empeoramiento de los síntomas o pérdida del conocimiento.
+[19-Dec-2024 17:37:53 America/Bogota] Respuesta de Gemini: **NIVEL:** 1
+
+**JUSTIFICACIÓN:**
+
+* El desmayo y la pérdida de memoria son síntomas graves que pueden indicar una afección médica subyacente grave, como un accidente cerebrovascular o una convulsión.
+
+**TIEMPO:**
+
+* Urgente
+
+**ACCIÓN:**
+
+* Transportar al hospital de inmediato para una evaluación y tratamiento urgentes.
+
+**ALARMA:**
+
+* Vigilar cualquier cambio en el estado neurológico, como confusión, debilidad o dificultad para hablar.
+* Vigilar cualquier síntoma nuevo o que empeore, como dolor de cabeza, náuseas o vómitos.
+[19-Dec-2024 17:38:09 America/Bogota] Respuesta de Gemini: **NIVEL:** 5
+
+**JUSTIFICACIÓN:**
+
+El dolor de pie es un síntoma común que puede tener varias causas, pero la información proporcionada no sugiere ninguna urgencia médica.
+
+**TIEMPO:**
+
+No urgente
+
+**ACCIÓN:**
+
+Puede ser atendido a domicilio.
+
+**ALARMA:**
+
+No hay signos de alarma que requieran atención inmediata.
+[19-Dec-2024 17:38:17 America/Bogota] Respuesta de Gemini: **NIVEL:** 5
+
+**JUSTIFICACIÓN:**
+
+El dolor de pie aislado en un paciente de 56 años sin otros síntomas o información adicional no es una emergencia médica.
+
+**TIEMPO:**
+
+No urgente
+
+**ACCIÓN:**
+
+Puede ser atendido a domicilio.
+
+**ALARMA:**
+
+No hay signos de alarma que requieran vigilancia adicional.
+[19-Dec-2024 17:38:37 America/Bogota] Respuesta de Gemini: **NIVEL:** 3
+
+**JUSTIFICACIÓN:**
+
+* El paciente es un niño de 12 años con dolor de cabeza y congestión nasal.
+* Estos síntomas son comunes en infecciones virales leves, como el resfriado común.
+* El paciente no presenta otros síntomas preocupantes, como fiebre alta, dificultad para respirar o letargo.
+
+**TIEMPO:** No urgente
+
+**ACCIÓN:**
+
+* El paciente puede ser atendido a domicilio.
+* Se recomienda reposo, líquidos abundantes y analgésicos de venta libre para el dolor de cabeza.
+
+**ALARMA:**
+
+* Si el paciente desarrolla fiebre alta, dificultad para respirar o letargo, debe buscar atención médica de inmediato.
+[19-Dec-2024 18:09:15 America/Bogota] Respuesta de Gemini: **NIVEL:** 3
+
+**JUSTIFICACIÓN:**
+
+* El paciente es joven y sano (23 años, sexo masculino).
+* Los síntomas (dolor de cabeza, mocos y tos) son leves y no sugieren una enfermedad grave.
+* No hay información adicional que indique factores de riesgo o complicaciones.
+
+**TIEMPO:** No urgente
+
+**ACCIÓN:**
+
+* El paciente puede ser atendido a domicilio.
+* Se le debe aconsejar que descanse, beba muchos líquidos y tome analgésicos de venta libre para aliviar los síntomas.
+
+**ALARMA:**
+
+* Si los síntomas empeoran o no mejoran después de unos días.
+* Si el paciente desarrolla fiebre, dificultad para respirar o dolor de pecho.
+[19-Dec-2024 18:10:13 America/Bogota] Respuesta de Gemini: **NIVEL:** 2
+
+**JUSTIFICACIÓN:**
+
+* Dolor estomacal intenso
+* Vómitos con sangre (hematemesis)
+* Dolor de cabeza (puede indicar aumento de la presión intracraneal)
+
+Estos síntomas sugieren una afección gastrointestinal grave o una hemorragia interna, que requieren atención hospitalaria inmediata.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Transportar al paciente al hospital más cercano.
+* Estabilizar al paciente durante el transporte (p. ej., administrar líquidos intravenosos, controlar el dolor).
+
+**ALARMA:**
+
+* Signos de shock (p. ej., presión arterial baja, pulso rápido, respiración superficial)
+* Vómitos persistentes o empeoramiento del dolor
+* Confusión o alteración del nivel de conciencia
+[19-Dec-2024 18:10:57 America/Bogota] Respuesta de Gemini: NIVEL: 5
+JUSTIFICACIÓN: El paciente no presenta síntomas agudos ni requiere atención médica urgente.
+TIEMPO: No urgente
+ACCIÓN: Puede ser atendido a domicilio.
+ALARMA: Ninguna
+[19-Dec-2024 18:11:28 America/Bogota] Respuesta de Gemini: **NIVEL:** 1
+
+**JUSTIFICACIÓN:**
+
+* El dolor de estómago y el sangrado vaginal durante el embarazo son síntomas graves que requieren atención médica inmediata.
+* El sangrado vaginal puede indicar un aborto espontáneo, placenta previa o desprendimiento de placenta.
+* El dolor de estómago puede ser un signo de infección o complicaciones del embarazo.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Trasladar a la paciente al hospital de inmediato.
+
+**ALARMA:**
+
+* Dolor abdominal intenso
+* Sangrado vaginal abundante
+* Fiebre
+* Contracciones uterinas
+* Pérdida de líquido amniótico
+[19-Dec-2024 18:12:16 America/Bogota] Respuesta de Gemini: **NIVEL:** 2
+
+**JUSTIFICACIÓN:**
+
+* La paciente es una mujer embarazada, lo que aumenta el riesgo de complicaciones.
+* El dolor de cabeza y el malestar general pueden ser síntomas de una afección subyacente grave, como preeclampsia o infección.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Derivar al hospital para una evaluación y tratamiento inmediatos.
+
+**ALARMA:**
+
+* Dolor de cabeza intenso o persistente
+* Cambios en la visión
+* Hinchazón de manos o pies
+* Dolor abdominal
+* Fiebre o escalofríos
+[19-Dec-2024 18:12:45 America/Bogota] Respuesta de Gemini: **NIVEL:** 3
+
+**JUSTIFICACIÓN:**
+
+* La paciente es joven y sana.
+* Los síntomas son leves y no sugieren una infección grave.
+* El embarazo no es un factor de riesgo significativo en esta etapa.
+
+**TIEMPO:** No urgente
+
+**ACCIÓN:**
+
+* Puede ser atendida a domicilio.
+* Se recomienda reposo, líquidos y analgésicos de venta libre.
+
+**ALARMA:**
+
+* Fiebre alta (más de 38,5 °C)
+* Dificultad para respirar
+* Dolor de pecho
+* Vómitos persistentes
+* Cambios en el estado mental
+[19-Dec-2024 18:15:46 America/Bogota] Respuesta de Gemini: **NIVEL:** 3
+
+**JUSTIFICACIÓN:**
+
+* La paciente es una mujer de 80 años con dolor de cadera.
+* El dolor de cadera es un síntoma común en personas mayores y puede tener varias causas, como artritis, fracturas o lesiones musculares.
+* La edad avanzada de la paciente aumenta el riesgo de fracturas y otras complicaciones graves.
+
+**TIEMPO:** No urgente
+
+**ACCIÓN:**
+
+* La paciente puede ser atendida a domicilio.
+* Se recomienda una evaluación médica para determinar la causa del dolor de cadera y descartar cualquier complicación grave.
+
+**ALARMA:**
+
+* Dolor intenso o que empeora
+* Hinchazón o enrojecimiento alrededor de la cadera
+* Dificultad para caminar o soportar peso
+* Fiebre o escalofríos
+[19-Dec-2024 18:18:09 America/Bogota] Respuesta de Gemini: **NIVEL:** 1
+
+**JUSTIFICACIÓN:**
+
+* Paciente de edad avanzada (80 años) con dolor de cabeza, dificultad para respirar y pérdida de consciencia.
+* Estos síntomas sugieren una afección neurológica grave, como un accidente cerebrovascular o una hemorragia cerebral.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Traslado inmediato al hospital para evaluación y tratamiento.
+
+**ALARMA:**
+
+* Vigilar los siguientes signos:
+    * Cambios en el nivel de consciencia
+    * Debilidad o entumecimiento en un lado del cuerpo
+    * Dificultad para hablar o entender el habla
+    * Convulsiones
+[19-Dec-2024 18:18:44 America/Bogota] Respuesta de Gemini: **NIVEL:** 2
+
+**JUSTIFICACIÓN:**
+
+* Paciente anciana (80 años) con fiebre alta (39°C) y dolor de cabeza.
+* La fiebre alta puede indicar una infección grave que requiere atención hospitalaria.
+* El dolor de cabeza puede ser un síntoma de meningitis u otras afecciones neurológicas graves.
+
+**TIEMPO:** Urgente
+
+**ACCIÓN:**
+
+* Trasladar al hospital para una evaluación y tratamiento inmediatos.
+
+**ALARMA:**
+
+* Vigilar el estado neurológico de la paciente (confusión, letargo, convulsiones).
+* Controlar la temperatura y la presión arterial.
+* Observar cualquier signo de infección (escalofríos, náuseas, vómitos).
+[20-Dec-2024 08:49:53 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: Paciente anciana con fiebre alta y dolor de cabeza, lo que sugiere una posible infección grave.
+TIEMPO: Urgente
+ACCIÓN: Atención hospitalaria inmediata para evaluación y tratamiento.
+ALARMA:
+- Fiebre alta (39°C)
+- Dolor de cabeza intenso
+- Edad avanzada (80 años)
+[20-Dec-2024 08:50:42 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas de una infección viral leve, como dolor de cabeza, congestión, malestar general y escalofríos. Estos síntomas no son potencialmente mortales y pueden tratarse en casa con medidas de apoyo.
+TIEMPO: No urgente
+ACCIÓN: El paciente debe descansar, beber muchos líquidos y tomar analgésicos de venta libre para aliviar los síntomas.
+ALARMA:
+- Dolor de cabeza intenso o persistente
+- Fiebre alta (más de 39 °C)
+- Dificultad para respirar
+- Confusión o desorientación
+- Erupción cutánea o petequias
+[20-Dec-2024 08:51:11 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta vómitos con sangre y diarrea, lo que indica una posible hemorragia gastrointestinal. Los mareos sugieren una posible deshidratación o pérdida de sangre. Estos síntomas requieren atención hospitalaria urgente.
+TIEMPO: Urgente
+ACCIÓN: Trasladar al paciente al hospital más cercano para una evaluación y tratamiento inmediatos.
+ALARMA:
+- Vómitos con sangre
+- Diarrea
+- Mareos
+[20-Dec-2024 08:51:42 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta una migraña, que es una afección común que generalmente no es potencialmente mortal. El dolor de cabeza y el dolor en un ojo son síntomas típicos de la migraña.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: El paciente puede recibir tratamiento en casa con analgésicos de venta libre y reposo.
+ALARMA:
+- Dolor de cabeza intenso y persistente
+- Náuseas o vómitos
+- Sensibilidad a la luz o al sonido
+- Fiebre
+- Rigidez de nuca
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+[20-Dec-2024 08:56:39 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: La paciente es una mujer embarazada con migraña, dolor de cabeza y dolor en un ojo. La migraña durante el embarazo puede ser un signo de preeclampsia, una afección grave que requiere atención hospitalaria inmediata.
+TIEMPO: Urgente
+ACCIÓN: Trasladar a la paciente a un hospital para una evaluación y tratamiento inmediatos.
+ALARMA:
+- Dolor de cabeza intenso y persistente
+- Dolor en un ojo
+- Náuseas o vómitos
+- Hinchazón de manos o pies
+- Presión arterial alta
+[20-Dec-2024 09:02:59 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta síntomas de una infección respiratoria leve, como dolor de cabeza, dolor en el pecho y tos. El vómito es un síntoma común de las infecciones virales y no indica una afección grave.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: La paciente debe descansar, beber muchos líquidos y tomar analgésicos de venta libre para aliviar los síntomas. Si los síntomas empeoran o no mejoran en unos días, debe buscar atención médica.
+ALARMA:
+- Dificultad para respirar
+- Dolor de pecho intenso
+- Fiebre alta persistente
+- Vómitos persistentes o intensos
+- Confusión o desorientación
+[20-Dec-2024 09:05:20 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta dolor lumbar, ardor al caminar y parestesias en las piernas, lo que sugiere una posible radiculopatía lumbar. Si bien los síntomas son molestos, no son potencialmente mortales ni requieren atención hospitalaria inmediata.
+TIEMPO: Urgencia moderada
+ACCIÓN: El paciente debe ser evaluado por un médico de atención primaria o un especialista en columna vertebral para determinar la causa subyacente y recibir tratamiento adecuado.
+ALARMA:
+- Dolor intenso que empeora progresivamente
+- Debilidad o entumecimiento en las piernas
+- Pérdida del control de la vejiga o los intestinos
+- Fiebre o escalofríos
+[20-Dec-2024 09:06:29 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN: La paciente de 80 años presenta síntomas graves que incluyen dolor en las articulaciones, dolor de cabeza intenso, mareos y pérdida de consciencia. Estos síntomas sugieren una posible emergencia médica que requiere atención hospitalaria inmediata.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato a la sala de emergencias para evaluación y tratamiento.
+ALARMA:
+- Pérdida de consciencia
+- Dolor de cabeza intenso
+- Mareos
+[23-Dec-2024 11:59:20 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas de una infección viral leve, como dolor de cabeza, malestar general, tos y fiebre baja. La fiebre es leve y no hay otros signos de alarma.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: El paciente debe descansar, beber muchos líquidos y tomar analgésicos de venta libre para aliviar los síntomas.
+ALARMA:
+- Fiebre alta (por encima de 38°C)
+- Dificultad para respirar
+- Dolor de pecho
+- Confusión o desorientación
+- Erupción cutánea
+[23-Dec-2024 11:59:45 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas graves como dolor de cabeza, sangrado nasal, dolor en el pecho y vómitos. Estos síntomas pueden indicar una afección subyacente grave que requiere atención hospitalaria inmediata.
+TIEMPO: Urgente
+ACCIÓN: Trasladar al paciente al hospital más cercano para una evaluación y tratamiento inmediatos.
+ALARMA:
+- Dolor de cabeza intenso y persistente
+- Sangrado nasal profuso
+- Dolor torácico opresivo
+- Vómitos persistentes
+[23-Dec-2024 12:00:06 America/Bogota] Respuesta de Gemini: NIVEL: 5
+JUSTIFICACIÓN: El paciente no presenta síntomas agudos ni condiciones que requieran atención médica inmediata. La renovación de recetas es un asunto de rutina que no representa una urgencia.
+TIEMPO: No urgente
+ACCIÓN: El paciente puede programar una cita con su médico de cabecera o utilizar un servicio de telemedicina para renovar sus recetas.
+ALARMA:
+- Ninguna
+[23-Dec-2024 12:00:25 America/Bogota] Respuesta de Gemini: NIVEL: 5
+JUSTIFICACIÓN: El dolor en una uña por un corte menor no es una emergencia médica ni requiere atención hospitalaria. Es una afección leve que puede tratarse en casa.
+TIEMPO: No urgente
+ACCIÓN: El paciente puede tratar el dolor en casa con analgésicos de venta libre y mantener la uña limpia y seca.
+ALARMA:
+- Ninguna
+[23-Dec-2024 12:00:42 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta un dolor abdominal, que es un síntoma común y generalmente no es grave. No hay otros síntomas o información adicional que sugiera una afección más grave.
+TIEMPO: No urgente
+ACCIÓN: El paciente puede ser atendido en casa con analgésicos de venta libre y medidas de cuidado personal.
+ALARMA:
+- Dolor abdominal intenso o persistente
+- Fiebre
+- Náuseas o vómitos
+- Diarrea o estreñimiento
+- Sangre en las heces
+[23-Dec-2024 12:01:02 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: Los síntomas del paciente (sudoración y dolor de cabeza) son comunes y no sugieren una afección potencialmente mortal o que requiera atención hospitalaria inmediata.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: El paciente debe descansar, mantenerse hidratado y tomar analgésicos de venta libre para el dolor de cabeza. Si los síntomas empeoran o no mejoran en unos días, debe buscar atención médica.
+ALARMA:
+- Fiebre alta
+- Dolor de cabeza intenso o persistente
+- Náuseas o vómitos
+- Confusión o desorientación
+- Debilidad o entumecimiento en un lado del cuerpo
+[23-Dec-2024 12:01:27 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas de un posible accidente cerebrovascular (media cara dormida) y dolor torácico, que puede indicar un infarto de miocardio. Estos síntomas requieren atención hospitalaria urgente.
+TIEMPO: Urgente
+ACCIÓN: Trasladar al paciente al hospital más cercano para una evaluación y tratamiento inmediatos.
+ALARMA:
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Visión borrosa o doble
+- Dolor torácico persistente o que empeora
+- Dificultad para respirar
+- Pérdida de conciencia
+[23-Dec-2024 12:01:59 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN: El paciente presenta síntomas de un accidente cerebrovascular (ACV), que es una emergencia vital. La parálisis de medio cuerpo y la inconsciencia son signos de un ACV grave que requiere atención hospitalaria inmediata.
+TIEMPO: Urgente
+ACCIÓN: Llamar al 911 o al servicio de emergencias médicas local de inmediato.
+ALARMA:
+- Parálisis de medio cuerpo
+- Inconsciencia
+[23-Dec-2024 12:16:17 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta nódulos subcutáneos en el brazo y el abdomen, que pueden ser benignos o malignos. Aunque no son una emergencia vital, requieren una evaluación médica para determinar su naturaleza y descartar cualquier afección subyacente grave.
+TIEMPO: Urgencia moderada
+ACCIÓN: El paciente debe ser remitido a un médico de atención primaria o dermatólogo para una evaluación y pruebas adicionales, como una biopsia, si es necesario.
+ALARMA:
+- Crecimiento rápido o cambios en el tamaño o la forma de los nódulos
+- Dolor o sensibilidad en los nódulos
+- Fiebre o escalofríos
+- Pérdida de peso inexplicable
+- Ganglios linfáticos inflamados
+[23-Dec-2024 13:11:36 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas leves (dolor de cabeza, malestar general y tos) que no son potencialmente mortales ni requieren atención hospitalaria inmediata.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: El paciente debe descansar, tomar analgésicos de venta libre y líquidos. Si los síntomas empeoran o no mejoran en unos días, debe buscar atención médica.
+ALARMA:
+- Dolor de cabeza intenso o persistente
+- Fiebre alta
+- Dificultad para respirar
+- Confusión o desorientación
+- Vómitos o diarrea persistentes
+[23-Dec-2024 13:15:11 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN: El paciente presenta síntomas de un posible accidente cerebrovascular (ACV), que es una emergencia vital. El dolor de cabeza intenso, el sangrado por la nariz y la media cara dormida son signos clásicos de un ACV.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser trasladado a un hospital de inmediato para recibir atención médica de emergencia.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Sangrado por la nariz
+- Media cara dormida
+- Dificultad para hablar o entender el habla
+- Debilidad o entumecimiento en un lado del cuerpo
+- Pérdida de visión en un ojo o ambos
+- Mareos o pérdida del equilibrio
+[23-Dec-2024 13:17:14 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN:
+- Embarazo con sangrado y dolor abdominal: riesgo de aborto espontáneo o embarazo ectópico
+- Dolor de cabeza intenso: posible preeclampsia o hemorragia intracraneal
+
+TIEMPO: Urgencia vital
+ACCIÓN:
+- Traslado inmediato al hospital
+- Monitorización de signos vitales y administración de líquidos intravenosos
+- Evaluación obstétrica y neurológica
+
+ALARMA:
+- Sangrado vaginal abundante
+- Dolor abdominal intenso y persistente
+- Dolor de cabeza intenso y persistente
+- Convulsiones
+- Pérdida de conciencia
+[23-Dec-2024 13:17:32 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente es una mujer embarazada de 30 años con dolor de cabeza y pérdida de apetito. Estos síntomas son comunes durante el embarazo y no son indicativos de una emergencia vital o una urgencia grave.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: La paciente debe descansar y mantenerse hidratada. Si los síntomas empeoran o no mejoran en unos días, debe buscar atención médica.
+ALARMA:
+- Dolor de cabeza intenso o persistente
+- Pérdida de visión o cambios en la visión
+- Náuseas o vómitos persistentes
+- Fiebre
+- Dolor abdominal intenso
+- Sangrado vaginal
+[23-Dec-2024 13:23:14 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: La paciente es una mujer embarazada con fiebre, dolor de cabeza y pérdida de apetito. La fiebre es un signo de infección, que puede ser grave en las mujeres embarazadas. El dolor de cabeza y la pérdida de apetito también son síntomas de infección.
+TIEMPO: Urgente
+ACCIÓN: La paciente debe ser evaluada por un médico lo antes posible.
+ALARMA:
+- Fiebre
+- Dolor de cabeza
+- Pérdida de apetito
+- Embarazo
+[23-Dec-2024 13:36:07 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y visión borrosa) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia cerebral.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser evaluado en un entorno hospitalario lo antes posible para descartar cualquier afección potencialmente mortal.
+ALARMA:
+- Dolor de cabeza de inicio súbito y severo
+- Cambios en el estado mental o el comportamiento
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Pérdida de visión o visión doble
+[23-Dec-2024 13:37:02 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El dolor de cabeza es un síntoma común que puede variar en gravedad. En este caso, no se proporciona información adicional sobre la naturaleza o la intensidad del dolor de cabeza, por lo que se clasifica como una urgencia moderada.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: El paciente debe controlar sus síntomas y buscar atención médica si el dolor de cabeza empeora o si experimenta otros síntomas, como fiebre, náuseas o vómitos.
+ALARMA:
+- Dolor de cabeza intenso o repentino
+- Dolor de cabeza acompañado de fiebre, náuseas o vómitos
+- Dolor de cabeza que empeora con el tiempo o no responde a los analgésicos de venta libre
+[23-Dec-2024 13:37:22 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN: El paciente presenta síntomas graves como dolor de cabeza, desmayo y pérdida de la conciencia, que sugieren una posible emergencia neurológica.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Desmayo o pérdida de la conciencia
+- Convulsiones
+- Vómitos persistentes
+- Rigidez de nuca
+- Fiebre alta
+[23-Dec-2024 13:38:35 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y visión borrosa) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia cerebral.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser evaluado en un entorno hospitalario lo antes posible para descartar cualquier afección potencialmente mortal.
+ALARMA:
+- Dolor de cabeza de inicio súbito y severo
+- Cambios en el estado mental o el comportamiento
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Pérdida de visión o visión doble
+[23-Dec-2024 13:38:43 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y visión borrosa) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia cerebral.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser evaluado en un entorno hospitalario lo antes posible para descartar cualquier afección potencialmente mortal.
+ALARMA:
+- Dolor de cabeza de inicio súbito y severo
+- Cambios en el estado mental o el comportamiento
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Pérdida de visión o visión doble
+[23-Dec-2024 13:39:05 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos graves (dolor de cabeza y pérdida de memoria) que requieren atención hospitalaria inmediata para descartar afecciones potencialmente mortales como hemorragia intracraneal o accidente cerebrovascular.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Pérdida de memoria progresiva
+- Náuseas o vómitos
+- Convulsiones
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+[23-Dec-2024 13:39:14 America/Bogota] Respuesta de Gemini: NIVEL: 1
+JUSTIFICACIÓN: El paciente presenta síntomas graves que incluyen dolor de cabeza, pérdida de memoria y sangrado, lo que sugiere una posible hemorragia intracraneal o un traumatismo craneoencefálico. Estos síntomas requieren atención médica inmediata.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y persistente
+- Pérdida de memoria
+- Sangrado
+- Confusión o desorientación
+- Vómitos
+- Convulsiones
+[23-Dec-2024 13:40:53 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y pérdida de memoria) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia intracraneal.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Pérdida de memoria progresiva
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Convulsiones
+[23-Dec-2024 13:41:50 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y pérdida de memoria) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia cerebral.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Pérdida de memoria progresiva
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Convulsiones
+[23-Dec-2024 13:46:03 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas neurológicos (dolor de cabeza y pérdida de memoria) que pueden indicar una afección subyacente grave, como un accidente cerebrovascular o una hemorragia cerebral.
+TIEMPO: Urgente
+ACCIÓN: Transporte inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso y repentino
+- Pérdida de memoria progresiva
+- Debilidad o entumecimiento en un lado del cuerpo
+- Dificultad para hablar o entender el habla
+- Convulsiones
+[23-Dec-2024 13:51:35 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta fiebre, dolor articular intenso (10/10), vómitos y dolor en el brazo izquierdo. Estos síntomas sugieren una posible infección o afección inflamatoria grave que requiere atención hospitalaria urgente.
+TIEMPO: Urgente
+ACCIÓN: Traslado inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Fiebre
+- Dolor articular intenso (10/10)
+- Vómitos
+- Dolor en el brazo izquierdo
+[23-Dec-2024 13:52:05 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta fiebre y mareo, síntomas que no son potencialmente mortales pero requieren atención médica.
+TIEMPO: Urgencia moderada
+ACCIÓN: Atención domiciliaria posible, pero se recomienda consultar con un médico para descartar cualquier causa subyacente.
+ALARMA:
+- Fiebre persistente o alta (por encima de 39°C)
+- Mareo intenso o prolongado
+- Dolor de cabeza intenso
+- Náuseas o vómitos
+- Confusión o desorientación
+[23-Dec-2024 13:53:09 America/Bogota] Respuesta de Gemini: NIVEL: 4
+JUSTIFICACIÓN: Los síntomas del paciente (tos y mocos) son leves y no sugieren una afección grave.
+TIEMPO: No urgente
+ACCIÓN: Atención domiciliaria o telemedicina
+ALARMA:
+- Fiebre alta
+- Dificultad para respirar
+- Dolor de pecho
+- Tos con sangre
+[26-Dec-2024 10:52:25 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El dolor al orinar es un síntoma común de infección del tracto urinario (ITU), que generalmente no es una emergencia que requiera atención hospitalaria inmediata. El dolor es relativamente leve (4/10) y no hay otros síntomas graves.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: La paciente debe consultar con un médico de atención primaria o un servicio de telemedicina para una evaluación y tratamiento adecuados.
+ALARMA:
+- Fiebre
+- Dolor intenso o persistente
+- Náuseas o vómitos
+- Sangre en la orina
+- Dificultad para orinar
+[26-Dec-2024 10:54:17 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta dificultad para respirar, que es un signo de alarma que requiere atención hospitalaria.
+TIEMPO: Urgente
+ACCIÓN: Traslado inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dificultad para respirar
+[26-Dec-2024 10:55:02 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta síntomas de exacerbación de EPOC, que incluyen sibilancias, tos y flemas. La EPOC es una enfermedad pulmonar crónica que puede provocar dificultad respiratoria y requiere atención médica urgente.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser evaluado en un entorno hospitalario lo antes posible para recibir tratamiento, que puede incluir broncodilatadores, corticosteroides y oxígeno suplementario.
+ALARMA:
+- Dificultad respiratoria progresiva
+- Cianosis
+- Confusión o letargo
+- Frecuencia cardíaca o respiratoria elevada
+- Disminución de la saturación de oxígeno
+[26-Dec-2024 10:56:24 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente presenta un traumatismo craneoencefálico con dolor moderado y somnolencia, lo que sugiere una posible lesión cerebral.
+TIEMPO: Urgente
+ACCIÓN: Traslado inmediato al hospital para evaluación y tratamiento.
+ALARMA:
+- Dolor de cabeza intenso o persistente
+- Vómitos o náuseas
+- Confusión o desorientación
+- Pérdida de conciencia
+- Convulsiones
+[26-Dec-2024 14:36:33 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta dolor torácico de intensidad leve (2/10), lo que sugiere una urgencia moderada que no requiere atención hospitalaria inmediata.
+TIEMPO: Atención dentro de las 24 horas.
+ACCIÓN: El paciente debe acudir a un centro de atención primaria o a una clínica de urgencias para una evaluación y pruebas adicionales.
+ALARMA:
+- Dolor torácico que empeora o no mejora con el reposo
+- Dolor torácico que se irradia a los brazos, el cuello o la mandíbula
+- Dificultad para respirar
+- Mareos o desmayos
+- Sudoración fría
+[26-Dec-2024 14:36:58 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente es un hombre de 65 años con dolor torácico de intensidad leve (2/10). Aunque el dolor es leve, el dolor torácico en pacientes de edad avanzada siempre debe considerarse una urgencia grave debido al mayor riesgo de enfermedad cardíaca subyacente.
+TIEMPO: Urgente
+ACCIÓN: El paciente debe ser evaluado en un entorno hospitalario lo antes posible para descartar cualquier causa cardíaca grave.
+ALARMA:
+- Dolor torácico que empeora o no mejora con el reposo
+- Dolor torácico que se irradia a los brazos, el cuello o la mandíbula
+- Dificultad para respirar
+- Mareos o desmayos
+- Sudoración fría
+[26-Dec-2024 14:38:06 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El dolor abdominal es un síntoma común que puede variar en gravedad. En este caso, el dolor se describe como 5/10, lo que indica un nivel moderado de dolor. No hay otros síntomas o información adicional que sugiera una emergencia o una urgencia grave.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: Se recomienda que la paciente descanse y tome analgésicos de venta libre para aliviar el dolor. Si el dolor persiste o empeora, o si aparecen otros síntomas, debe buscar atención médica.
+ALARMA:
+- Dolor abdominal intenso (10/10)
+- Náuseas o vómitos
+- Fiebre
+- Sangrado rectal
+- Dolor que empeora con el movimiento o la palpación
+[26-Dec-2024 14:39:16 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta síntomas leves de tos y mucosidad, que no son potencialmente mortales ni requieren atención hospitalaria inmediata.
+TIEMPO: No urgente
+ACCIÓN: Atención domiciliaria posible. Se recomienda que la paciente descanse, beba muchos líquidos y tome medicamentos de venta libre para aliviar los síntomas.
+ALARMA:
+- Fiebre alta (más de 38,5 °C)
+- Dificultad para respirar
+- Dolor de pecho
+- Tos con sangre o flema verde o amarilla espesa
+- Empeoramiento de los síntomas
+[26-Dec-2024 14:39:52 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta síntomas de gastroenteritis aguda, que incluyen diarrea y vómitos. Estos síntomas son moderados y no ponen en peligro la vida.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN:
+- Mantenerse hidratada bebiendo líquidos claros.
+- Descansar lo suficiente.
+- Evitar alimentos sólidos hasta que los síntomas mejoren.
+- Tomar medicamentos antidiarreicos de venta libre si es necesario.
+ALARMA:
+- Vómitos persistentes o intensos
+- Diarrea con sangre o pus
+- Fiebre alta
+- Dolor abdominal intenso
+- Signos de deshidratación (sequedad de boca, orina escasa y oscura)
+[26-Dec-2024 14:40:30 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta síntomas de gastroenteritis aguda (diarrea, vómitos y fiebre), pero no son graves ni ponen en peligro su vida.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN:
+- Mantenerse hidratada bebiendo líquidos claros.
+- Descansar lo suficiente.
+- Tomar medicamentos antidiarreicos y antieméticos de venta libre según sea necesario.
+- Consultar a un médico si los síntomas empeoran o no mejoran en unos días.
+ALARMA:
+- Fiebre persistente o alta (más de 39°C)
+- Vómitos o diarrea intensos o persistentes
+- Dolor abdominal intenso
+- Signos de deshidratación (sequedad de boca, orina escasa y oscura)
+[26-Dec-2024 14:41:21 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: La paciente presenta síntomas de un posible accidente cerebrovascular (dolor de cabeza y entumecimiento facial), que es una urgencia grave que requiere atención hospitalaria inmediata.
+TIEMPO: Urgente
+ACCIÓN: Trasladar a la paciente al hospital más cercano para una evaluación y tratamiento inmediatos.
+ALARMA:
+- Dolor de cabeza repentino e intenso
+- Entumecimiento o debilidad en un lado de la cara o el cuerpo
+- Dificultad para hablar o entender el habla
+- Pérdida de visión en un ojo o visión doble
+- Mareos o pérdida del equilibrio
+[26-Dec-2024 14:42:03 America/Bogota] Respuesta de Gemini: NIVEL: 4
+JUSTIFICACIÓN: El dolor de cabeza y de espalda es leve (4/10) y no hay signos de alarma.
+TIEMPO: No urgente
+ACCIÓN: Atención domiciliaria o telemedicina
+ALARMA:
+- Dolor intenso o persistente
+- Fiebre
+- Náuseas o vómitos
+- Debilidad o entumecimiento
+- Cambios en la visión o el habla
+[26-Dec-2024 14:42:22 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta dolor de cabeza y espalda con una intensidad de 8/10, lo que indica una urgencia moderada. El dolor no es lo suficientemente grave como para requerir atención hospitalaria inmediata, pero es lo suficientemente intenso como para justificar una evaluación médica.
+TIEMPO: Dentro de las 24 horas
+ACCIÓN: La paciente debe buscar atención médica en un centro de atención primaria o clínica de urgencias para una evaluación y tratamiento adecuados.
+ALARMA:
+- Dolor que empeora o no responde al tratamiento
+- Fiebre
+- Náuseas o vómitos
+- Debilidad o entumecimiento en las extremidades
+- Cambios en la visión o el habla
+[27-Dec-2024 12:59:18 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente es joven, no está embarazada y presenta sangrado vaginal leve con mareos leves. Estos síntomas sugieren una posible hemorragia uterina anormal, que generalmente no es una emergencia vital.
+TIEMPO: Urgencia moderada
+ACCIÓN: La paciente debe buscar atención médica en las próximas 24 horas para una evaluación y tratamiento adecuados.
+ALARMA:
+- Sangrado vaginal abundante
+- Mareos o desmayos
+- Dolor abdominal intenso
+- Fiebre o escalofríos
+[07-Jan-2025 13:45:50 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: La paciente presenta dolor crónico intenso (10/10), pero no hay signos de emergencia vital o urgencia grave.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN: Evaluar el dolor y proporcionar analgésicos según sea necesario. Considerar la derivación a un especialista en dolor.
+ALARMA:
+- Dolor persistente o que empeora
+- Fiebre
+- Cambios en el estado mental
+- Dificultad para respirar
+[07-Jan-2025 13:46:52 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas de deshidratación leve (sed y diarrea), pero no hay signos de emergencia vital o urgencia grave.
+TIEMPO: Atención domiciliaria posible
+ACCIÓN:
+- Hidratar al paciente con líquidos orales o agua.
+- Monitorear la ingesta y producción de líquidos.
+- Buscar atención médica si los síntomas empeoran o no mejoran en 24 horas.
+ALARMA:
+- Vómitos persistentes
+- Diarrea con sangre o pus
+- Fiebre alta
+- Dolor abdominal intenso
+- Signos de deshidratación grave (sequedad de boca, ojos hundidos, letargo)
+[07-Jan-2025 13:47:35 America/Bogota] Respuesta de Gemini: NIVEL: 2
+JUSTIFICACIÓN: El paciente es un niño pequeño con vómitos persistentes, lo que puede provocar deshidratación y desequilibrio electrolítico.
+TIEMPO: Urgente
+ACCIÓN: Atención hospitalaria inmediata para evaluación y tratamiento.
+ALARMA:
+- Vómitos persistentes
+- Llanto excesivo
+- Deshidratación (sequedad de boca, ojos hundidos, letargo)
+[07-Jan-2025 13:48:37 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas de gripe y fiebre, que son condiciones leves que generalmente no requieren atención hospitalaria.
+TIEMPO: No urgente
+ACCIÓN: El paciente puede recibir atención domiciliaria con reposo, líquidos y medicamentos de venta libre para aliviar los síntomas.
+ALARMA:
+- Fiebre persistente o alta (más de 39 °C)
+- Dificultad para respirar
+- Dolor de pecho
+- Confusión o desorientación
+[10-Jan-2025 10:46:44 America/Bogota] Respuesta de Gemini: NIVEL: 3
+JUSTIFICACIÓN: El paciente presenta síntomas de gripe y fiebre, que son condiciones moderadas que pueden tratarse en el hogar con medidas de apoyo.
+TIEMPO: No urgente
+ACCIÓN: Recomendar reposo, hidratación y medicamentos de venta libre para aliviar los síntomas.
+ALARMA:
+- Fiebre persistente o alta
+- Dificultad para respirar
+- Dolor de pecho
+- Confusión o desorientación

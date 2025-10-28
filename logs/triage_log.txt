@@ -1,0 +1,111 @@
+2024-12-19 12:47:27 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: dolor de estomago con vomito de sangre
+2024-12-19 12:48:12 | Nivel: 3 | Edad: 30 | Sexo: M | Síntomas: me duele todo el cuerpo, tengo escalofrios, mocos y congestion
+2024-12-19 12:49:23 | Nivel: 1 | Edad: 25 | Sexo: F | Síntomas: Me duele el estomago, la cabeza y mareo
+2024-12-19 12:52:25 | Nivel: 1 | Edad: 22 | Sexo: F | Síntomas: convulsiones 
+2024-12-19 12:53:42 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: dificultad para respirar y dolor moderado en el pecho
+2024-12-19 12:54:06 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: dificultad para respirar con antecedentes de asma
+2024-12-19 12:56:07 | Nivel: 3 | Edad: 43 | Sexo: M | Síntomas: me duele una pierna por un golpe que me di esta manana
+2024-12-19 12:56:51 | Nivel: 5 | Edad: 43 | Sexo: M | Síntomas: consulta para renovación de formulas medicas
+2024-12-19 12:58:41 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: MAREO ANTECEDENTE  DE NEURISMA CEREBRAL DE 10 AÑOS, SOLO ESTA PRESENTANDO SIN OTRA SINTOMATOLOGIA ASOCIADA
+2024-12-19 12:59:23 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: DOLOR GENERALIZADO,TOS CONGESTIÓN NASAL,INAPETENCIA ,DESALIENTO,TEMBLOR EN MANOS
+2024-12-19 13:00:42 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: DOLOR GENERALIZADO,TOS CONGESTIÓN NASAL,INAPETENCIA ,DESALIENTO,TEMBLOR EN MANOS
+2024-12-19 13:01:32 | Nivel: 1 | Edad: 43 | Sexo: M | Síntomas: DOLOR EN CINTURA, NIEGA GOLPES O CAIDAS, NIEGA OTROS SINTOMAS
+2024-12-19 13:02:04 | Nivel: 1 | Edad: 64 | Sexo: F | Síntomas: DOLOR EN CINTURA, NIEGA GOLPES O CAIDAS, NIEGA OTROS SINTOMAS
+2024-12-19 16:44:58 | Nivel: 3 | Edad: 45 | Sexo: M | Síntomas: dolor de garganta hace dos dias
+2024-12-19 16:45:14 | Nivel: 3 | Edad: 45 | Sexo: M | Síntomas: dolor de estomago, vomito con sangre
+2024-12-19 16:45:54 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: vomito con sangre, dolor abdominal
+2024-12-19 16:49:16 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: vomito con sangre, dolor abdominal
+2024-12-19 16:49:41 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: vomito con sangre, dolor abdominal
+2024-12-19 16:53:58 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: dolor de muela
+2024-12-19 16:54:13 | Nivel: 1 | Edad: 56 | Sexo: M | Síntomas: vomito con sangre y dolor abdominal
+2024-12-19 16:54:27 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: quiero renovar formulas medicas
+2024-12-19 16:54:37 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: me duele la vagina jaaj
+2024-12-19 17:03:22 | Nivel: 3 | Edad: 65 | Sexo: M | Síntomas: dolor de cabeza, vomito y medio cuerpo dormido
+2024-12-19 17:05:10 | Nivel: 3 | Edad: 65 | Sexo: M | Síntomas: dolor de cabeza, vomito y medio cuerpo
+2024-12-19 17:10:24 | Nivel: 3 | Edad: 65 | Sexo: M | Síntomas: dolor de cabeza, vomito y medio cuerpo
+2024-12-19 17:10:27 | Nivel: 3 | Edad: 65 | Sexo: M | Síntomas: dolor de cabeza, vomito y medio cuerpo
+2024-12-19 17:10:46 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: vomito con sangre, dolor de cabeza y sangrado nasal
+2024-12-19 17:11:32 | Nivel: 3 | Edad: 67 | Sexo: M | Síntomas: dolor en el pene y sangrado
+2024-12-19 17:13:41 | Nivel: 3 | Edad: 67 | Sexo: M | Síntomas: dolor en el pene y sangrado
+2024-12-19 17:14:47 | Nivel: 3 | Edad: 67 | Sexo: M | Síntomas: dolor en el pene y sangrado
+2024-12-19 17:14:49 | Nivel: 3 | Edad: 67 | Sexo: M | Síntomas: dolor en el pene y sangrado
+2024-12-19 17:15:14 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:20:01 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:20:04 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:27:55 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:35:02 | Nivel: 3 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:37:53 | Nivel: 1 | Edad: 56 | Sexo: M | Síntomas: desmayo y perdida de memoria
+2024-12-19 17:38:09 | Nivel: 1 | Edad: 56 | Sexo: M | Síntomas: dolor de pie
+2024-12-19 17:38:17 | Nivel: 1 | Edad: 56 | Sexo: M | Síntomas: dolor de pie derecho
+2024-12-19 17:38:37 | Nivel: 1 | Edad: 12 | Sexo: M | Síntomas: dolor de cabeza y congestion nasal
+2024-12-19 18:09:15 | Nivel: 1 | Edad: 23 | Sexo: M | Síntomas: dolor de cabeza, mocos y tos
+2024-12-19 18:10:13 | Nivel: 1 | Edad: 23 | Sexo: M | Síntomas: dolor estomacal, vomito con sangre y dolor de cabeza
+2024-12-19 18:10:57 | Nivel: 1 | Edad: 23 | Sexo: M | Síntomas: quiero renovar mis formulas medicas para los medicamentos de este mes
+2024-12-19 18:11:28 | Nivel: 1 | Edad: 23 | Sexo: F | Síntomas: dolor de estomago y sangrado vaginal
+2024-12-19 18:12:16 | Nivel: 1 | Edad: 23 | Sexo: F | Síntomas: dolor de cabeza y malestar general
+2024-12-19 18:12:45 | Nivel: 1 | Edad: 23 | Sexo: F | Síntomas: mocos, congestion nasal, tos y dolor de cabeza
+2024-12-19 18:15:46 | Nivel: 1 | Edad: 80 | Sexo: F | Síntomas: dolor de cadera
+2024-12-19 18:18:09 | Nivel: 1 | Edad: 80 | Sexo: F | Síntomas: dolor de cabeza
+2024-12-19 18:18:44 | Nivel: 1 | Edad: 80 | Sexo: F | Síntomas: dolor de cabeza
+2024-12-20 08:49:53 | Nivel: 2 | Edad: 80 | Sexo: F | Síntomas: dolor de cabeza
+2024-12-20 08:50:42 | Nivel: 3 | Edad: 25 | Sexo: M | Síntomas: dolor de cabeza, congestion, malestar general y escalofrios
+2024-12-20 08:51:11 | Nivel: 2 | Edad: 25 | Sexo: M | Síntomas: vomito con sangrado, diarrea, mareos, hace 1 dia
+2024-12-20 08:51:42 | Nivel: 3 | Edad: 25 | Sexo: M | Síntomas: migraña, dolor de cabeza y dolor en un ojo
+2024-12-20 08:56:39 | Nivel: 2 | Edad: 25 | Sexo: F | Síntomas: migraña, dolor de cabeza y dolor en un ojo
+2024-12-20 09:02:59 | Nivel: 3 | Edad: 25 | Sexo: F | Síntomas: dolor de cabeza, dolor en el pacho y tos
+2024-12-20 09:05:20 | Nivel: 3 | Edad: 45 | Sexo: M | Síntomas: Dolor en la espalda baja, ardor al intentar caminar y siento corrientazos en las piernas
+2024-12-20 09:06:29 | Nivel: 1 | Edad: 80 | Sexo: F | Síntomas: Dolor en las articulaciones, mucho dolor de cabeza y mareo
+2024-12-20 12:13:56 | Nivel: 3 | Edad: 12 | Sexo: M | Síntomas: dolor en el pene
+2024-12-23 11:59:20 | Nivel: 3 | Edad: 40 | Sexo: M | Síntomas: dolor de cabeza, malestar general, tos y fiebre
+2024-12-23 11:59:45 | Nivel: 2 | Edad: 40 | Sexo: M | Síntomas: dolor de cabeza, sangrado nasal, dolor en el pecho y vomito
+2024-12-23 12:00:06 | Nivel: 5 | Edad: 40 | Sexo: M | Síntomas: quiero renovar mis formulas medicas
+2024-12-23 12:00:25 | Nivel: 5 | Edad: 40 | Sexo: M | Síntomas: tengo un dolor en una uña porque me la corte mal
+2024-12-23 12:00:42 | Nivel: 3 | Edad: 40 | Sexo: M | Síntomas: me duele el estomago, 
+2024-12-23 12:01:02 | Nivel: 3 | Edad: 40 | Sexo: M | Síntomas: tengo mucha sudoración, dolor de cabeza
+2024-12-23 12:01:27 | Nivel: 2 | Edad: 40 | Sexo: M | Síntomas: media cara dormida, dolor en el pecho
+2024-12-23 12:01:59 | Nivel: 1 | Edad: 40 | Sexo: M | Síntomas: medio cuerpo dormido, inconsiente en la cama
+2024-12-23 12:16:17 | Nivel: 3 | Edad: 30 | Sexo: M | Síntomas: tiene una bolita en un brazo y otra en el estomago, se siente como venas o en la piel
+2024-12-23 13:11:36 | Nivel: 3 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza, malestar general y tos
+2024-12-23 13:15:11 | Nivel: 1 | Edad: 30 | Sexo: M | Síntomas: dolor de cebeza intenso, sangado por la nariz y media cara dormida
+2024-12-23 13:17:14 | Nivel: 1 | Edad: 30 | Sexo: F | Síntomas: dolor de cabeza, dolor abdominal y sangrado
+2024-12-23 13:17:32 | Nivel: 3 | Edad: 30 | Sexo: F | Síntomas: dolor de cabeza, perdida de apetito 
+2024-12-23 13:23:14 | Nivel: 2 | Edad: 30 | Sexo: F | Síntomas: dolor de cabeza, perdida de apetito 
+2024-12-23 13:36:07 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y vision borrosa
+2024-12-23 13:37:02 | Nivel: 3 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza
+2024-12-23 13:37:22 | Nivel: 1 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza, desmayo y perdida de la consiencia
+2024-12-23 13:38:35 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y vision borrosa
+2024-12-23 13:38:43 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y vision borrosa
+2024-12-23 13:39:05 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y perdida de la memoria
+2024-12-23 13:39:14 | Nivel: 1 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y perdida de la memoria y sangrado
+2024-12-23 13:40:53 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y perdida de la memoria 
+2024-12-23 13:41:50 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y perdida de la memoria 
+2024-12-23 13:46:03 | Nivel: 2 | Edad: 30 | Sexo: M | Síntomas: dolor de cabeza y perdida de la memoria 
+2024-12-23 13:51:35 | Nivel: 2 | Edad: 32 | Sexo: M | Síntomas: Fiebre dolro articular brazo izquierdo y vomito 
+2024-12-23 13:52:05 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: Fiebre y mareo 
+2024-12-23 13:53:09 | Nivel: 4 | Edad: 32 | Sexo: M | Síntomas: tos y mocos
+2024-12-26 10:52:25 | Nivel: 3 | Edad: 32 | Sexo: F | Síntomas: me duele al orinar 
+2024-12-26 10:54:17 | Nivel: 2 | Edad: 65 | Sexo: M | Síntomas: ME SILBA EL PECHO , TENGO TOS Y FLEMAS
+2024-12-26 10:55:02 | Nivel: 2 | Edad: 65 | Sexo: M | Síntomas: ME SILBA EL PECHO , TENGO TOS Y FLEMAS TEGNO ANTECEDENTE DE EPOC
+2024-12-26 10:56:24 | Nivel: 2 | Edad: 35 | Sexo: M | Síntomas: ME PEGUE EN LA CABEZA Y TENGO MUCHO SUEÑO
+2024-12-26 14:36:33 | Nivel: 3 | Edad: 35 | Sexo: M | Síntomas: tengo dolor en el pecho
+2024-12-26 14:36:58 | Nivel: 2 | Edad: 65 | Sexo: M | Síntomas: tengo dolor en el pecho
+2024-12-26 14:38:06 | Nivel: 3 | Edad: 42 | Sexo: F | Síntomas: dolor abdominal 
+2024-12-26 14:39:16 | Nivel: 3 | Edad: 42 | Sexo: F | Síntomas: tengo tos y mcos 
+2024-12-26 14:39:52 | Nivel: 3 | Edad: 42 | Sexo: F | Síntomas: tengo diarrea y vomito 
+2024-12-26 14:40:30 | Nivel: 3 | Edad: 42 | Sexo: F | Síntomas: tengo diarrea  vomito y fiebre 38
+2024-12-26 14:41:21 | Nivel: 2 | Edad: 42 | Sexo: F | Síntomas: tengo dolro de cabeza ymedia cara dormida 
+2024-12-26 14:42:03 | Nivel: 4 | Edad: 20 | Sexo: F | Síntomas: tengo dolro de cabeza y de espalda
+2024-12-26 14:42:22 | Nivel: 3 | Edad: 20 | Sexo: F | Síntomas: tengo dolro de cabeza y de espalda
+2024-12-27 12:59:18 | Nivel: 3 | Edad: 25 | Sexo: F | Síntomas: tengo sangrado vaginal  y leve mareo
+2025-01-07 13:45:50 | Nivel: 3 | Edad: 47 | Sexo: F | Síntomas: TENGO UAN ENFERMEDAD CRONICA Y TENOG MUCHO DOLOR 
+2025-01-07 13:46:52 | Nivel: 3 | Edad: 30 | Sexo: M | Síntomas: TENGO SED Y MUHCA DIARREA 
+2025-01-07 13:47:35 | Nivel: 2 | Edad: 3 | Sexo: M | Síntomas: LLORA MUHCO Y VOMITA TODO LO QUE COME
+2025-01-07 13:48:37 | Nivel: 3 | Edad: 38 | Sexo: M | Síntomas: TENGO GRIPA Y FIEBRE
+2025-01-10 10:46:44 | Nivel: 3 | Edad: 40 | Sexo: M | Síntomas: TENGO GRIPA Y FIEBRE y ,alestar
+2025-10-27 16:29:29 | Nivel: 3 | Edad: 34 | Sexo: M | Síntomas: me duele la cabeza, tengo mocos, escalofrios y dolor de cuerpo
+2025-10-27 19:58:30 | Nivel: 3 | Edad: 34 | Sexo: M | Síntomas: me duele la cabeza, tengo mocos, escalofrios y dolor de cuerpo
+2025-10-28 17:01:29 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el estomago
+2025-10-28 17:01:56 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza
+2025-10-28 17:02:07 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza
+2025-10-28 17:02:19 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto
+2025-10-28 17:03:02 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto

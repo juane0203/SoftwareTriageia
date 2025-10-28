@@ -1,0 +1,130 @@
+/* styles.css */
+
+/* Animaciones */
+.fade-in {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Personalización de formularios */
+input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: #4649d6;
+    box-shadow: 0 0 0 3px rgba(70, 73, 214, 0.1);
+}
+
+/* Botones */
+.btn-primary {
+    background-color: #4649d6;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #2a4693;
+}
+
+/* Resultados de Triage */
+.result-card {
+    transition: all 0.3s ease;
+}
+
+.result-card.level-1 { border-left: 4px solid #ef4444; }
+.result-card.level-2 { border-left: 4px solid #f97316; }
+.result-card.level-3 { border-left: 4px solid #eab308; }
+.result-card.level-4 { border-left: 4px solid #22c55e; }
+.result-card.level-5 { border-left: 4px solid #3b82f6; }
+
+/* Checkboxes personalizados */
+input[type="checkbox"] {
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 0.25rem;
+    border: 2px solid #4649d6;
+    cursor: pointer;
+}
+
+input[type="checkbox"]:checked {
+    background-color: #4649d6;
+    border-color: #4649d6;
+}
+
+/* Inputs numéricos */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Gradientes y fondos */
+.gradient-bg {
+    background: linear-gradient(135deg, #2a4693 0%, #4649d6 100%);
+}
+
+/* Responsive adaptations */
+@media (max-width: 640px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    .grid-cols-2 {
+        grid-template-columns: 1fr;
+    }
+    
+    input, select, textarea {
+        font-size: 16px; /* Previene zoom en iOS */
+    }
+}
+
+/* Loading states */
+.loading {
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+.loading-spinner {
+    border: 3px solid rgba(70, 73, 214, 0.1);
+    border-top: 3px solid #4649d6;
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Colores del header */
+.header-text {
+    color: #2a4693;
+}
+
+.header-bg {
+    background-color: rgba(42, 70, 147, 0.1);
+}
+
+/* Textos informativos */
+.info-text {
+    color: #2a4693;
+}
+
+/* Contenedor principal */
+.main-container {
+    background: white;
+}

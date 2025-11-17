@@ -4,11 +4,15 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
     die('Acceso no permitido');
 }
 
+define('DB_HOST', 'localhost');
+define('DB_USER', 'opcriver_triage');
+define('DB_PASS', ';%9v#zZvtiU1B0Us');
+define('DB_NAME', 'opcriver_triagedb');
+
 // Configuración básica
 // Reemplazar la API key de Mistral por Gemini
 define('GEMINI_API_KEY', 'AIzaSyAV3lfLeAf3xBDpl2TKK-sbMBXB7gjdO7U');
 define('LOG_PATH', dirname(__DIR__) . '/logs');
-
 
 // Zona horaria
 date_default_timezone_set('America/Bogota');
@@ -19,8 +23,7 @@ ini_set('display_errors', 0);
 ini_set('log_errors', 1);
 ini_set('error_log', LOG_PATH . '/error.log');
 
-// Headers de seguridad
-header('Content-Type: application/json');
+// Headers de seguridad (ELIMINADO EL HEADER JSON QUE ROMPÍA EL HTML)
 header('X-Content-Type-Options: nosniff');
 header('X-Frame-Options: SAMEORIGIN');
 header('X-XSS-Protection: 1; mode=block');

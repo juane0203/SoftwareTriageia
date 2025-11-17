@@ -109,3 +109,4 @@
 2025-10-28 17:02:07 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza
 2025-10-28 17:02:19 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto
 2025-10-28 17:03:02 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto
+2025-11-17 12:21:15 | Nivel: 3 | Edad: 32 | Sexo: F | Síntomas: dsafdfsdfssdfsfd dfs dfs fds dsf dsf dsf fds

@@ -926,3 +926,150 @@ ALARMA:
 - Dificultad para respirar
 - Dolor de pecho
 - Confusión o desorientación
+[17-Nov-2025 11:11:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:11:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:11:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:12:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 6
+[17-Nov-2025 11:13:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:14:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:15:47 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:17:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 23
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 24
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 25
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 26
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/opcriver/developer-elephantic.tech/triageadom/api/db.php on line 9
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/opcriver/developer-elephantic.tech/triageadom/api/db.php on line 9
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/opcriver/developer-elephantic.tech/triageadom/api/db.php on line 10
+[17-Nov-2025 11:18:20 America/Bogota] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/opcriver/developer-elephantic.tech/triageadom/api/db.php on line 11
+[17-Nov-2025 11:18:20 America/Bogota] Error de conexión: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+[17-Nov-2025 11:21:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:21:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:21:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:21:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 11:21:49 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:21:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/dashboard.php on line 9
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 11:23:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function verificarSesion() in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php on line 47
+[17-Nov-2025 11:33:39 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:33:44 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:35:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:35:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:35:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:35:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 11:35:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT' in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:16
+Stack trace:
+#0 /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php(16): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php on line 16
+[17-Nov-2025 11:35:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:35:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:35:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:35:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 11:35:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT' in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:16
+Stack trace:
+#0 /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php(16): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php on line 16
+[17-Nov-2025 11:36:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:36:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:36:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:36:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:4) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 11:36:10 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT' in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php:16
+Stack trace:
+#0 /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php(16): PDO->prepare('SELECT id_usuar...')
+#1 {main}
+  thrown in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_login.php on line 16
+[17-Nov-2025 11:37:11 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:38:50 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:38:51 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:39:34 America/Bogota] Error en login: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_usuario' in 'SELECT'
+[17-Nov-2025 11:56:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 11:56:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 11:56:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 11:56:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_conexion.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 28
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 29
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 30
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/config.php on line 31
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php:8) in /home/opcriver/developer-elephantic.tech/triageadom/api/middleware/session.php on line 23

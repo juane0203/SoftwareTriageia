@@ -1,0 +1,999 @@
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php on line 9
+[17-Nov-2025 11:23:12 America/Bogota] PHP Notice:  Undefined variable: _SESSION in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php on line 14
+[17-Nov-2025 11:23:12 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/api/middleware/session.php on line 7
+[17-Nov-2025 11:39:47 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:47 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:47 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:47 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:47 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:48 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:48 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:48 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:48 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:48 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:48 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:48 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:48 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:48 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:48 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:48 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:48 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:48 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:48 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:48 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:48 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:48 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:48 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:48 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:48 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:48 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:48 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:48 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:48 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:48 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:49 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:49 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:49 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:49 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:49 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:49 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:49 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:49 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:49 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:49 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:49 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:49 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:49 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:49 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:49 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:49 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:49 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:49 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:49 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:49 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:51 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:51 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:51 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:51 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:51 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:51 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:51 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:51 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:51 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:51 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:51 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:51 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:51 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:51 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:51 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:51 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:51 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:51 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:51 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:51 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:51 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:51 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:51 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:51 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:51 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:52 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:52 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:52 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:52 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:52 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:52 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:52 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:52 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:52 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:52 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:52 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:52 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:52 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:52 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:52 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:52 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:52 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:52 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:52 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:52 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:52 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:52 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:52 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:52 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:52 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:57 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:57 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:57 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:57 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:57 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:58 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:58 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:58 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:58 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:58 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:58 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:58 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:58 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:58 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:58 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:58 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:58 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:58 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:58 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:58 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:58 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:58 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:58 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:58 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:58 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:58 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:58 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:58 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:58 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:58 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:59 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:59 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:59 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:59 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:59 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:59 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:59 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:59 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:59 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:59 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:59 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:59 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:59 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:59 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:59 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:39:59 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:39:59 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:39:59 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:39:59 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:39:59 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:30 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:30 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:30 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:30 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:30 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:30 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:30 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:30 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:30 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:30 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:30 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:30 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:30 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:30 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:30 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:30 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:30 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:30 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:30 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:30 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:31 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:31 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:31 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:31 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:31 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:31 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:31 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:31 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:31 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:31 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:31 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:31 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:31 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:31 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:31 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:31 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:31 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:31 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:31 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:31 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:32 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:32 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:32 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:32 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:32 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:40:32 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:40:32 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:40:32 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:40:32 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:40:32 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:32 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:32 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:32 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:32 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:32 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:33 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:33 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:33 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:33 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:33 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:33 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:33 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:33 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:33 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:33 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:33 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:33 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:33 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:33 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:33 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:33 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:33 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:33 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:33 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:33 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:33 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:33 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:33 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:33 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:33 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:34 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:34 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:34 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:34 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:34 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:34 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:34 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:34 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:34 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:34 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:34 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:34 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:34 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:34 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:34 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:41:34 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:41:34 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:41:34 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:41:34 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:41:34 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:13 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:13 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:13 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:13 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:13 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:13 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:13 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:13 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:13 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:13 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:13 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:13 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:13 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:13 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:13 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:14 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:14 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:14 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:14 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:14 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:14 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:14 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:14 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:14 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:14 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:14 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:14 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:14 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:14 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:14 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:14 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:14 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:14 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:14 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:14 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:15 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:15 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:15 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:15 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:15 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:15 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:15 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:15 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:15 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:15 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:15 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:15 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:15 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:15 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:15 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:16 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:16 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:16 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:16 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:16 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:17 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:17 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:17 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:17 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:17 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:17 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:17 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:17 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:17 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:17 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:17 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:17 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:17 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:17 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:17 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:43:17 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:43:17 America/Bogota] Session ID: 13e58adf903b08d0775556d59b4262a1
+[17-Nov-2025 11:43:17 America/Bogota] Usuario ID en sesión: NO DEFINIDO
+[17-Nov-2025 11:43:17 America/Bogota] Contenido de SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Dr. Juan PÃ©rez
+    [user_email] => juan.perez@adom.com
+    [user_rol] => profesional
+    [user_especialidad] => Medicina General
+    [login_time] => 1763397587
+    [last_activity] => 1763397587
+)
+
+[17-Nov-2025 11:43:17 America/Bogota] Redirigiendo a login - no hay usuario_id
+[17-Nov-2025 11:49:14 America/Bogota] === DEBUG DASHBOARD ===
+[17-Nov-2025 11:49:14 America/Bogota] Session ID: 3144a37d910812128fee5fc9fcbb2aea
+[17-Nov-2025 11:49:14 America/Bogota] Usuario ID en sesión: 1
+[17-Nov-2025 11:49:14 America/Bogota] Contenido de SESSION: Array
+(
+    [usuario_id] => 1
+    [usuario] => Array
+        (
+            [id] => 1
+            [nombre] => Dr. Juan PÃ©rez
+            [apellido] => 
+            [email] => juan.perez@adom.com
+            [rol] => profesional
+        )
+
+    [ultimo_acceso] => 1763398154
+)
+
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php on line 9
+[17-Nov-2025 12:08:38 America/Bogota] PHP Notice:  Undefined variable: _SESSION in /home/opcriver/developer-elephantic.tech/triageadom/panel/test_dashboard.php on line 14
+[17-Nov-2025 12:08:38 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opcriver/developer-elephantic.tech/triageadom/api/middleware/session.php on line 4

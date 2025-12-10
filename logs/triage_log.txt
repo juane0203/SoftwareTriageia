@@ -110,3 +110,15 @@
 2025-10-28 17:02:19 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto
 2025-10-28 17:03:02 | Nivel: 3 | Edad: 32 | Sexo: M | Síntomas: me duele el pecho, se me durmio el brazo izquierdo y tengo dolor de cabeza me va a dar un infarto
 2025-11-17 12:21:15 | Nivel: 3 | Edad: 32 | Sexo: F | Síntomas: dsafdfsdfssdfsfd dfs dfs fds dsf dsf dsf fds
+2025-11-17 12:30:37 | Nivel: 3 | Paciente:  
+2025-11-17 12:30:38 | Nivel: 3 | Paciente:  
+2025-11-17 12:36:21 | Nivel: 3 | Paciente:  
+2025-11-17 12:41:28 | Nivel: 3 | Paciente: Juan Lugo
+2025-11-17 13:11:37 | Nivel: 3 | Paciente: Juan Esteban Lugo
+2025-11-17 15:36:16 | Nivel: 3 | Paciente: Pedro Ramirez
+2025-11-17 16:17:40 | Nivel: 3 | Paciente: jose Cardenas
+2025-11-17 16:21:58 | Nivel: 3 | Paciente: Camilo Lopez
+2025-11-17 16:30:44 | Nivel: 3 | Paciente: Juan Lugo
+2025-11-17 16:32:06 | Nivel: 3 | Paciente: liliana pelaez
+2025-11-17 16:33:22 | Nivel: 3 | Paciente: julian lopez
+2025-11-17 16:39:08 | Nivel: 3 | Paciente: julian lopez

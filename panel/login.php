@@ -77,12 +77,7 @@ if (isset($_SESSION['user_id'])) {
             </form>
 
             <!-- Info de prueba -->
-            <div class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-200">
-                <p class="text-sm text-blue-800 font-medium mb-2">👤 Usuarios de prueba:</p>
-                <p class="text-xs text-blue-700">• juan.perez@adom.com</p>
-                <p class="text-xs text-blue-700">• maria.gonzalez@adom.com</p>
-                <p class="text-xs text-blue-700 mt-2">🔑 Contraseña: <strong>admin123</strong></p>
-            </div>
+
         </div>
 
         <!-- Footer -->

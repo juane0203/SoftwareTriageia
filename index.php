@@ -201,6 +201,15 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 mb-6">
+    <label class="flex items-start space-x-3 cursor-pointer">
+        <input type="checkbox" required class="mt-1 w-5 h-5 text-blue-600 rounded focus:ring-blue-500 border-gray-300">
+        <span class="text-sm text-gray-600">
+            Autorizo el tratamiento de mis datos personales sensibles (salud) para el proceso de Triage Médico, conforme a la <strong>Ley 1581 de 2012</strong> y la política de privacidad de IPS ADOM. Entiendo que la clasificación es realizada por Inteligencia Artificial y verificada por humanos.
+        </span>
+    </label>
+</div>
 
                 <!-- BOTÓN DE ENVÍO -->
                 <div class="border-t-2 pt-6">

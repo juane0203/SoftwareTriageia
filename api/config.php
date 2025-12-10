@@ -11,7 +11,7 @@ define('DB_NAME', 'opcriver_triagedb');
 
 // Configuración básica
 // Reemplazar la API key de Mistral por Gemini
-define('GEMINI_API_KEY', 'AIzaSyAV3lfLeAf3xBDpl2TKK-sbMBXB7gjdO7U');
+define('GEMINI_API_KEY', 'AIzaSyCa8jg3I0bRqfGFoMzrywahvwU5TjlJclQ');
 define('LOG_PATH', dirname(__DIR__) . '/logs');
 
 // Zona horaria
